@@ -26,7 +26,11 @@ h4[id="h4-2"]{
     margin-left: 38.5%;
 }
 
-.campo-email{
+.forms-email{
+    margin-left: 20%;
+}
+
+/* .campo-email{
     width: 40%;
     height: 30px;
     margin-left: 27%;
@@ -42,4 +46,4 @@ h4[id="h4-2"]{
     margin-bottom: 20px;
     border-radius: 10px;
     border: none;
-}
+} */
